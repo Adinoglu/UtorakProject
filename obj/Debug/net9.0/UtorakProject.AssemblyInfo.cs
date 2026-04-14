@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UtorakProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e33292622e55d75b44df353875307d366360bff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("UtorakProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UtorakProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

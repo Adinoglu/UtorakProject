@@ -1,0 +1,5 @@
+C:\Users\adin.sulejmanovic\UtorakProject\obj\Debug\net9.0\UtorakProject.csproj.AssemblyReference.cache
+C:\Users\adin.sulejmanovic\UtorakProject\obj\Debug\net9.0\UtorakProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adin.sulejmanovic\UtorakProject\obj\Debug\net9.0\UtorakProject.AssemblyInfoInputs.cache
+C:\Users\adin.sulejmanovic\UtorakProject\obj\Debug\net9.0\UtorakProject.AssemblyInfo.cs
+C:\Users\adin.sulejmanovic\UtorakProject\obj\Debug\net9.0\UtorakProject.csproj.CoreCompileInputs.cache
